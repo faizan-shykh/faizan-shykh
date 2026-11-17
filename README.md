@@ -1,4 +1,4 @@
-# 🚀 Faizan Javed  
+# M Faizan Javed  
 ### Front End Developer | JavaScript, React & Angular Enthusiast
 
 ---
